@@ -57,7 +57,7 @@ Your code should return the number of disconnected components and fill the given
 
     Constraints : 
 
-Array sizes are less than 103  (and  >0).
+Array sizes are less than 10^3.
 
-Your code should work at most in O(n3)
+Your code should work at most in O(n^3)
   complexity.
